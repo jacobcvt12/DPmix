@@ -14,4 +14,4 @@ mu <- c(-3, 6, 17)
 X <- rnorm(n, mu[z])
 
 # save data to use for models
-saveRDS(X, "data/binomial.RDS")
+saveRDS(X, "data/normal.RDS")
